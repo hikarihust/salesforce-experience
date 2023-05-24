@@ -2,5 +2,7 @@
 ================================================ Initial Setup ================================================
 
 Create a Community
+    https://help.salesforce.com/s/articleView?language=en_US&id=networks_overview.htm&type=5
 Standing Up the Community
+Understanding Community Workspaces
     
