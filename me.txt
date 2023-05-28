@@ -8,4 +8,5 @@ Understanding Community Workspaces
 Salesforce Communities Licenses
     https://help.salesforce.com/s/articleView?id=sf.users_license_types_communities.htm&type=5
 Record Access
+Managing External Users
     
