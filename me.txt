@@ -14,4 +14,5 @@ Community Settings
 Super User
     https://help.salesforce.com/s/articleView?id=sf.networks_customer_super_user_access.htm&type=5
     https://help.salesforce.com/s/articleView?id=sf.networks_partner_super_user_access.htm&type=5
+Delegated Admin
     
