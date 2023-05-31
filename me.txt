@@ -21,3 +21,7 @@ Default Community
 
 Community Builder, Themes and Branding
     
+================================================ Navigation Menu Customization ================================================
+
+Add Salesforce Objects to the Navigation Menu
+    
