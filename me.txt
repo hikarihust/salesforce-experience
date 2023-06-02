@@ -26,3 +26,8 @@ Community Builder, Themes and Branding
 Add Salesforce Objects to the Navigation Menu
 Add a New Page
     
+================================================ Topics, Articles and Recommendations ================================================
+
+
+Community Topics and Navigational Topics
+    
