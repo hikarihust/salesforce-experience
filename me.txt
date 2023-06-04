@@ -1,4 +1,4 @@
-
+ 
 ================================================ Initial Setup ================================================
 
 Create a Community
@@ -32,4 +32,6 @@ Add a New Page
 Community Topics and Navigational Topics
 Knowledge
 More Knowledge and Featured Topics
+Article Management
+    https://help.salesforce.com/s/articleView?id=sf.knowledge_whatis.htm&type=5
     
