@@ -35,3 +35,7 @@ Article Management
     https://help.salesforce.com/s/articleView?id=sf.knowledge_whatis.htm&type=5
 Recommendations
     
+================================================ Page Customization ================================================
+
+Using Standard Components
+    
