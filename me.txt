@@ -35,9 +35,7 @@ Article Management
     https://help.salesforce.com/s/articleView?id=sf.knowledge_whatis.htm&type=5
 Recommendations
     
-================================================ Page Customization ================================================
+================================================ Going Live ================================================
 
-Using Standard Components
-Improving the User Experience
-Adding Dashboards
+Publish and Activate the Community
     
