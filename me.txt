@@ -39,4 +39,5 @@ Recommendations
 
 Publish and Activate the Community
 Community Membership
+Community Preferences
     
