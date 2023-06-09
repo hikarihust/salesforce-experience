@@ -41,4 +41,5 @@ Publish and Activate the Community
 Community Membership
 Community Preferences
 Public Access
+Guest User Profile
     
