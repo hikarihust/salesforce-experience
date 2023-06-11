@@ -44,4 +44,5 @@ Public Access
 Guest User Profile
 Global Header and App Launcher
 Customizing the Login Page
+Single Sign-On (SSO) with Facebook
     
