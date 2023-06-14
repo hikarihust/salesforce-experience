@@ -52,3 +52,11 @@ Person Accounts
 Page Variations and Flows
 Audience Targeting and Assignments
     
+================================================ External Content ================================================
+
+CMS Connect  
+    https://www.youtube.com/watch?v=QzryYxngjxM
+    https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms.htm
+    https://developer.wordpress.org/rest-api/reference/
+    https://public-api.wordpress.com
+    
