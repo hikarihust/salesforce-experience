@@ -60,3 +60,7 @@ CMS Connect
     https://developer.wordpress.org/rest-api/reference/
     https://public-api.wordpress.com
     
+================================================ Community Moderation ================================================
+
+Moderation Rules
+    
