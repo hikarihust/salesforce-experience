@@ -75,4 +75,5 @@ Installing the Reports and Dashboards Package
 ================================================ Community Management ================================================
 
 Dashboard Mapping and Engagement Reports
+Reputation Levels and Points, Article Voting
     
