@@ -64,4 +64,5 @@ CMS Connect
 
 Moderation Rules
 Creating a Moderation Rule to Flag Posts and Comments
+Installing the Reports and Dashboards Package
     
