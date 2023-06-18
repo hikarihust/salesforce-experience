@@ -63,4 +63,5 @@ CMS Connect
 ================================================ Community Moderation ================================================
 
 Moderation Rules
+Creating a Moderation Rule to Flag Posts and Comments
     
