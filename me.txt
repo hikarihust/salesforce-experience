@@ -76,4 +76,5 @@ Installing the Reports and Dashboards Package
 
 Dashboard Mapping and Engagement Reports
 Reputation Levels and Points, Article Voting
+Gamification (Recognition Badges)
     
