@@ -77,4 +77,9 @@ Installing the Reports and Dashboards Package
 Dashboard Mapping and Engagement Reports
 Reputation Levels and Points, Article Voting
 Gamification (Recognition Badges)
+
+================================================ Supporting the Community ================================================
+
+Knowledge - Article Management (again)
+    https://help.salesforce.com/s/articleView?id=sf.knowledge_whatis.htm&type=5
     
