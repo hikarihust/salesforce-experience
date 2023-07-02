@@ -82,4 +82,5 @@ Gamification (Recognition Badges)
 
 Knowledge - Article Management (again)
     https://help.salesforce.com/s/articleView?id=sf.knowledge_whatis.htm&type=5
+Log in as User and Even More Knowledge
     
